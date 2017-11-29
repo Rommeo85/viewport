@@ -1,5 +1,5 @@
 module.exports = function (config) {
-  const testFiles = 'tests/*.js';
+  const testFiles = 'test/*.js';
 
   config.set({
     basePath: './',

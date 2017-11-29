@@ -22,7 +22,7 @@
     "watchify": "^3.9.0"
   },
   "scripts": {
-    "test": "karma start karma.conf.js --single-run",
-    "watch": "karma start karma.conf.js"
+    "test": "karma start --single-run",
+    "watch": "karma start"
   }
 }

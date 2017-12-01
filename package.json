@@ -1,6 +1,6 @@
 {
   "name": "viewport",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Roman Langolf <rommeo85@gmail.com>",
   "repository": {
     "type": "git",
@@ -22,7 +22,16 @@
     "watchify": "^3.9.0"
   },
   "browserify": {
-    "transform": [ "babelify" ]
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "env"
+          ]
+        }
+      ]
+    ]
   },
   "scripts": {
     "test": "karma start --single-run",

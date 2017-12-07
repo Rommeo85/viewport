@@ -1,6 +1,6 @@
 # Viewport
 
-Lightweight helper for observing browser's viewport using media queries.
+Lightweight helper for observing browser's viewport using predefined breakpoints and media queries.
 
 ## Examples
 ##### Initialize

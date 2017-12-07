@@ -1,15 +1,16 @@
 {
-  "name": "viewport",
-  "description": "Lightweight helper for observing browser's viewport using media queries.",
+  "name": "viewport-mq",
+  "description": "Lightweight helper for observing browser's viewport using predefined breakpoints and media queries.",
   "version": "0.1.2",
   "author": "Roman Langolf <rommeo85@gmail.com>",
   "keywords": [
     "viewport",
     "window",
     "screen",
-    "browser",
     "responsive",
-    "resize"
+    "resize",
+    "media queries",
+    "breakpoints"
   ],
   "repository": {
     "type": "git",

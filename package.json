@@ -1,5 +1,6 @@
 {
   "name": "viewport",
+  "description": "Lightweight helper for observing browser's viewport using media queries.",
   "version": "0.1.2",
   "author": "Roman Langolf <rommeo85@gmail.com>",
   "repository": {

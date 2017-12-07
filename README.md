@@ -1,6 +1,6 @@
 # Viewport
 
-Helper for browser's viewport properties/resize events.
+Lightweight helper for observing browser's viewport using media queries.
 
 ## Examples
 ##### Initialize

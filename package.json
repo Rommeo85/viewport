@@ -3,6 +3,14 @@
   "description": "Lightweight helper for observing browser's viewport using media queries.",
   "version": "0.1.2",
   "author": "Roman Langolf <rommeo85@gmail.com>",
+  "keywords": [
+    "viewport",
+    "window",
+    "screen",
+    "browser",
+    "responsive",
+    "resize"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/rommeo85/viewport.git"
